@@ -14,7 +14,6 @@ int buttonState = 0;
 
 
 void setup() {
-  Wire.begin();                 //Begin I2C Communication
   SerialUSB.begin(9600);         //Begin Serial Communication and set Baud Rate
 
   // Use this pin as an input to read the button state
