@@ -1,5 +1,5 @@
 //************************************************************************
-// Momentary Button Whisker Example
+// Momentary Button Wireling Example
 //
 // Uses digitalRead to detect when the momentary button is pressed
 // and reports it to the serial monitor.
@@ -23,7 +23,7 @@ void setup() {
 
 void loop() {
 
-  // Used for alearting user/printing to serial monitor if the button state changes
+  // Used for alerting user/printing to serial monitor if the button state changes
   int prevButtonState = buttonState;
 
   // Get the button state
