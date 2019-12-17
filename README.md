@@ -1,7 +1,7 @@
-# TinyCircuits Whisker Momentary Button
+# TinyCircuits Wireling Momentary Button
 # AST1015 Rev1
 
-The design files are located under design_files/ for the TinyCircuits AST1015 Rev 1 PCB. This is a whisker board which features a tiny tactile switch used for sending High/Low signals.
+The design files are located under design_files/ for the TinyCircuits AST1015 Rev 1 PCB. This is a Wireling board which features a tiny tactile switch used for sending High/Low signals.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
